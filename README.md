@@ -1,6 +1,4 @@
-Based on the content from the PDF, here's a suitable README for your project:
 
----
 
 # Gene Expression Analysis to Detect Alzheimer's
 
